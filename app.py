@@ -68,7 +68,7 @@ FRUIT_INFO = {
     'Watermelon': "🍉 92% water! Perfect for staying hydrated in summer."
 }
 
-MODEL_PATH = "student_mobilenetv2_transfer_learning.h5"
+MODEL_PATH = "student_mobilenetv2_transfer_learning.keras"
 
 # ===========================
 # LOAD MODEL
