@@ -57,7 +57,7 @@ CLASS_NAMES = [
 
 FRUIT_INFO = {
     'apple': "🍎 Rich in fiber and vitamin C. Usually comes in red and green varieties.",
-    'avocado': "🥑 Packed with healthy fats and nutrients. Perfect for guacamole!"
+    'avocado': "🥑 Packed with healthy fats and nutrients. Perfect for guacamole!",
     'banana': "🍌 Great source of potassium. Perfect pre-workout snack!",
     'cherry': "🍒 Sweet and tart! Rich in antioxidants and anti-inflammatory compounds.",
     'kiwi': "🥝 Packed with vitamin C - more than oranges!",
