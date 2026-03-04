@@ -43,9 +43,9 @@ IMG_SIZE = (160, 160)  # must match the model training input
 # The order of CLASS_NAMES MUST match the training folder order used by your dataset loader.
 # In tf.keras.utils.image_dataset_from_directory, class_names are typically alphabetical by folder name.
 CLASS_NAMES = [
-    'Apple',
-    'Banana',
+    'apple',
     'avocado',
+    'banana',
     'cherry',
     'kiwi',
     'mango',
@@ -56,9 +56,9 @@ CLASS_NAMES = [
 ]
 
 FRUIT_INFO = {
-    'Apple': "🍎 Rich in fiber and vitamin C. Usually comes in red and green varieties.",
-    'Banana': "🍌 Great source of potassium. Perfect pre-workout snack!",
-    'avocado': "🥑 Packed with healthy fats and nutrients. Perfect for guacamole!",
+    'apple': "🍎 Rich in fiber and vitamin C. Usually comes in red and green varieties.",
+    'avocado': "🥑 Packed with healthy fats and nutrients. Perfect for guacamole!"
+    'banana': "🍌 Great source of potassium. Perfect pre-workout snack!",
     'cherry': "🍒 Sweet and tart! Rich in antioxidants and anti-inflammatory compounds.",
     'kiwi': "🥝 Packed with vitamin C - more than oranges!",
     'mango': "🥭 Known as the king of fruits. Rich in vitamins A and C.",
