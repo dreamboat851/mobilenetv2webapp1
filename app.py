@@ -45,14 +45,14 @@ IMG_SIZE = (160, 160)  # must match the model training input
 CLASS_NAMES = [
     'Apple',
     'Banana',
-    'Avocado',
-    'Cherry',
-    'Kiwi',
-    'Mango',
-    'Orange',
-    'Pineapple',
-    'Strawberries',
-    'Watermelon'
+    'avocado',
+    'cherry',
+    'kiwi',
+    'mango',
+    'orange',
+    'pineapple',
+    'strawberries',
+    'watermelon'
 ]
 
 FRUIT_INFO = {
