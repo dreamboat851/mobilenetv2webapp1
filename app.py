@@ -58,14 +58,14 @@ CLASS_NAMES = [
 FRUIT_INFO = {
     'Apple': "🍎 Rich in fiber and vitamin C. Usually comes in red and green varieties.",
     'Banana': "🍌 Great source of potassium. Perfect pre-workout snack!",
-    'Avocado': "🥑 Packed with healthy fats and nutrients. Perfect for guacamole!",
-    'Cherry': "🍒 Sweet and tart! Rich in antioxidants and anti-inflammatory compounds.",
-    'Kiwi': "🥝 Packed with vitamin C - more than oranges!",
-    'Mango': "🥭 Known as the king of fruits. Rich in vitamins A and C.",
-    'Orange': "🍊 Famous for vitamin C. Great for boosting immunity.",
-    'Pineapple': "🍍 Contains bromelain, an enzyme that aids digestion.",
-    'Strawberries': "🍓 Loaded with vitamin C and antioxidants. Great for heart health!",
-    'Watermelon': "🍉 92% water! Perfect for staying hydrated in summer."
+    'avocado': "🥑 Packed with healthy fats and nutrients. Perfect for guacamole!",
+    'cherry': "🍒 Sweet and tart! Rich in antioxidants and anti-inflammatory compounds.",
+    'kiwi': "🥝 Packed with vitamin C - more than oranges!",
+    'mango': "🥭 Known as the king of fruits. Rich in vitamins A and C.",
+    'orange': "🍊 Famous for vitamin C. Great for boosting immunity.",
+    'pineapple': "🍍 Contains bromelain, an enzyme that aids digestion.",
+    'strawberries': "🍓 Loaded with vitamin C and antioxidants. Great for heart health!",
+    'watermelon': "🍉 92% water! Perfect for staying hydrated in summer."
 }
 
 MODEL_PATH = "student_mobilenetv2_transfer_learning.keras"
